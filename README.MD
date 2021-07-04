@@ -1,6 +1,9 @@
 # Cozy Sounds
 Simple Application to listen and mix what you like cozy sounds.
 
+## Demo
+https://lszwedxx.github.io/Cozy-Sounds/
+
 ## Technology
 javascript css and html.
 
